@@ -1,0 +1,25 @@
+// $Id: README.txt,v 1.1 2008/09/29 18:02:43 q8doc Exp $
+/*
+** DESIGNED AND CODE BY BISHER AL-HALABI | Built on: bluemarine drupal theme and prosilver phpbb3 theme | requires advancedforum
+*/
+/*
+** DESIGNED AND CODE BY BISHER AL-HALABI | Built on: bluemarine drupal theme and prosilver phpbb3 theme | requires advancedforum
+*/
+built on= blue marine(drupal.org)
+forum themes adopted from= phpbb3 (CMS) style prosilver- phpbb.org
+using phpbb AF module style http://drupal.org/node/314318
+Requires: Advanced_Forum module http://drupal.org/project/advanced_forum
+
+1)install latest advanced forum module... and use phpbb style in the adminstration pages of Advanced forum module
+using phpbb AF module style http://drupal.org/node/314318
+Requires: Advanced_Forum module http://drupal.org/project/advanced_forum
+
+2)Other settings:
+	- post comment on the same page ( content management\comments)
+
+3) recomended modules:
+	-userpoints
+	-userstat
+	-signatures for forums
+	-advanced profile
+	-quote

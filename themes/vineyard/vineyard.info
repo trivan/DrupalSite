@@ -1,0 +1,15 @@
+; $Id: vineyard.info,v 1.1 2010/02/10 21:31:23 hingo Exp $
+name = Vineyard
+description = Olive green theme with a grape decor. (Based on Bluemarine.)
+version = VERSION
+core = 6.x
+engine = phptemplate
+
+
+
+; Information added by drupal.org packaging script on 2010-02-10
+version = "6.x-1.0"
+core = "6.x"
+project = "vineyard"
+datestamp = "1265838315"
+
